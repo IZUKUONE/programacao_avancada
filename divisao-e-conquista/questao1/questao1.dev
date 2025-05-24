@@ -1,6 +1,6 @@
 [Project]
-FileName=questao4.dev
-Name=questao4
+FileName=questao1.dev
+Name=questao1
 Type=1
 Ver=2
 ObjFiles=
@@ -12,7 +12,7 @@ MakeIncludes=
 Compiler=
 CppCompiler=
 Linker=
-IsCpp=0
+IsCpp=1
 Icon=
 ExeOutput=
 ObjectOutput=
@@ -29,7 +29,7 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
 CompilerSettings=0000000000000000000000000
-UnitCount=3
+UnitCount=1
 
 [VersionInfo]
 Major=1
@@ -50,29 +50,9 @@ ProductVersion=
 AutoIncBuildNr=0
 SyncProduct=1
 
-[Unit2]
-FileName=socio.c
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit3]
-FileName=socio.h
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
 [Unit1]
-FileName=main.c
-CompileCpp=0
+FileName=main.cpp
+CompileCpp=1
 Folder=
 Compile=1
 Link=1
